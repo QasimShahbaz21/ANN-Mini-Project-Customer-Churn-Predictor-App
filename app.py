@@ -80,3 +80,4 @@ if st.button("🔮 Predict Churn", type="primary", use_container_width=True):
         st.error(f"⚠️ **Verdict:** Customer is **likely to LEAVE** (Probability: {churn_percent:.1f}%)")
     else:
         st.success(f"✅ **Verdict:** Customer is **likely to STAY** (Probability: {100 - churn_percent:.1f}% retention)")
+
