@@ -1,0 +1,20 @@
+# Other labs and assignments
+Copy_of_heart_failure_prediction_ann.ipynb
+Lab0.ipynb
+Lab0.zip
+Lab1.ipynb
+Lab1.zip
+
+# Datasets and manuals
+datasets/
+*.csv
+*.docx
+*.zip
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.vscode/
+.idea/
